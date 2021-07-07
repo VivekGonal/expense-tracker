@@ -1,9 +1,9 @@
 # About
 
--User can track their daily expenses.
--Year-wise expense tracker.
--User can add their expenses on the specified date.
--User can visualize their daily expense in the form of chart.
+-User can track their daily expenses.\
+-Year-wise expense tracker.\
+-User can add their expenses on the specified date.\
+-User can visualize their daily expense in the form of chart.\
 
 # Getting Started with Create React App
 
